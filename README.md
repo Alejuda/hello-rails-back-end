@@ -108,9 +108,9 @@ git clone https://github.com/Alejuda/hello-rails-back-end
 Install this project dependencies and create database with:
 
 ```sh
-  cd hello-react-front
+  cd hello-react-front-end
   npm install
-  cd ../hello-rails-back
+  cd ../hello-rails-back-end
   bundle install
   rails db:create
   rails db:migrate
@@ -124,14 +124,14 @@ To run the project you will need to run 2 terminals.
 - The first one:
 
 ```sh
-  cd hello-rails-back
+  cd hello-rails-back-end
   rails s
 ```
 
 - The second one:
 
 ```sh
-  cd hello-react-front
+  cd hello-react-front-end
   npm run dev
 ```
 
@@ -178,7 +178,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 Please adhere to the coding conventions and guidelines specified in the project.
 
-Feel free to check the [issues page](https://github.com/Alejuda/hello-rails-back/issues).
+Feel free to check the [issues page](https://github.com/Alejuda/hello-rails-back-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +186,7 @@ Feel free to check the [issues page](https://github.com/Alejuda/hello-rails-back
 
 ## Support <a name="support"></a>
 
-If you encounter any issues or have any questions or suggestions, please open an issue on the [issue tracker](https://github.com/Alejuda/hello-rails-back/issues).
+If you encounter any issues or have any questions or suggestions, please open an issue on the [issue tracker](https://github.com/Alejuda/hello-rails-back-end/issues).
 Furthermore, if you would like to get in touch with us, you can find our contact information in the <a href="#authors">Authors</a> section.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
